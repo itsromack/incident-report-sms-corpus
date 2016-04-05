@@ -1,0 +1,10 @@
+{
+    "name": "itsromack/incident-report-sms-corpus",
+    "authors": [
+        {
+            "name": "Romack Natividad",
+            "email": "romacknatividad@gmail.com"
+        }
+    ],
+    "require": {}
+}
